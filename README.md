@@ -1,4 +1,4 @@
-# Back-end | Arrays e Loops
+# Arrays e Loops
 
 ## Exercícios
 
